@@ -1,4 +1,4 @@
-# Magnific-Popup-Alux
+# Magnific-Popup-WordPress
 How toinclude Magnific Popup in Alux framework (and all WordPress themes as well!)
 
 1) - Go to this site by Dimitry Semenov (Magnific Popup author): https://dimsemenov.com/plugins/magnific-popup/
