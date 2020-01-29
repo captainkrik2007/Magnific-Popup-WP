@@ -8,7 +8,7 @@ How toinclude Magnific Popup in Alux framework (and all WordPress themes as well
    
  2) Copy files in your theme folder
  
- 3) Include in your function.php the files
+ 3) Include in your function.php the files in the same way you included other css and js files.
  
  4) Initialize Magnific Popup in the script.js
  
